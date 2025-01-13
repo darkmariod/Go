@@ -13,6 +13,7 @@ Se puede ver como un mini programa cuyo proposito es realizar una cosa y que la 
 Una variable en Go es una entidad que se utiliza para almacenar un valor en memoria, que puede ser accedido y 
 modificado a lo largo de la ejecución del programa.
 
+Variables tipadas e inferencia de tipos
 
 ##### Tipos de datos
 [Go] (https://www.makigas.es/series/fundamentos-de-go)
