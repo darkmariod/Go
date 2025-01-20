@@ -20,3 +20,4 @@ Variables tipadas e inferencia de tipos
 
 ###### Tipos de parametros de funciones
 
+los tipos
