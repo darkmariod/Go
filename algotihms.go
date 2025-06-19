@@ -1,4 +1,0 @@
-package go_test
-
-
-
